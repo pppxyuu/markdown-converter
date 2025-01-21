@@ -1,7 +1,8 @@
 # MarkdownConverter
 
 #### 介绍
-将博客转换为markdown格式
+markdown格式转换工具
+将博客网站内容拉取，转换为markdown格式文本
 
 #### 使用说明
 1.  打包后procedure文件夹生成程序
